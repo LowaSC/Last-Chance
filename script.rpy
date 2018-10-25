@@ -1,0 +1,7 @@
+﻿
+#Персонажи
+
+
+label start:
+
+    return
